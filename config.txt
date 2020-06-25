@@ -1,6 +1,6 @@
 owner=441968779975589890
 prefix=$
-game=playing| !play
+game=playing| $play
 stayinchannel=true
 songinstatus=false
 token=NTU5NzI4MTYyNzcxMTczMzg3.D3pnAA.tQNmOz0XK64x9Jt-tJ8qYJq8_Eo
